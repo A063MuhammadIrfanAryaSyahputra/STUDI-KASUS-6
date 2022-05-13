@@ -1,0 +1,18 @@
+Masukan nama matkul   :
+Banyak mhsiswa        :
+
+nama siswa
+tugas
+uts
+uas
+
+daftar nilai mahasiswa
+nama matkul           : 
+
+nama     nilai tgs    nilai uts    nilai uas    akhir
+udin        20            20          20           20
+
+rata rata tugas :
+rata rata uts   :
+rata rata uas   :
+
